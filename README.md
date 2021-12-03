@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -40,18 +41,17 @@ ___
 >It's not a silly question if you can't answer it.
 
 <img align="left" src="https://readme-jokes.vercel.app/api?theme=graywhite" alt="Jokes Card" />
+=======
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=100&lines=Hello+there!;My+name+is+Diogo+Cavaleiro%2C;I'm+a+Software+Developer+student.)](https://git.io/typing-svg)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+>>>>>>> f0cfe1240abcbe2ecc32c61245e0047dd2b5a25b
 
 <!--
-**dcavalei/dcavalei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
+
