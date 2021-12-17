@@ -10,6 +10,7 @@ ___
 <a href="https://git-scm.com/" target="_blank"> <img src=".logo/git.svg" width="50" height="50"> </a>
 <a href="https://www.gnu.org/software/make/" target="_blank"> <img src=".logo/gnu.svg" width="50" height="50"> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src=".logo/bash.svg" width="50" height="50"> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src=".logo/docker.svg" width="50" height="50"> </a>
 </div>
 
 </br>
