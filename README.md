@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=100&lines=Hello+there!;My+name+is+Diogo+Cavaleiro%2C;I'm+a+Software+Developer+student.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?&height=150&type=waving&color=6CCAF6&text=Hello%20my%20name%20is%20Diogo!&fontSize=30&fontColor=FFFFFF&fontAlignY=37&desc=42%20Lisboa&descAlign=70&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
 
 <h2 align="center">Languages/Tools</h2>
 
