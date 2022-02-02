@@ -1,9 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?&height=150&type=waving&color=6CCAF6&text=Hello%20my%20name%20is%20Diogo!&fontSize=30&fontColor=FFFFFF&fontAlignY=37&desc=42%20Lisboa&descAlign=70&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00AAFF&text=Hello%20my%20name%20is%20Diogo!&fontSize=30&fontColor=FFFFFF&fontAlignY=37&desc=42%20Lisboa&descAlign=70&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+</div>
 
-<h2 align="center">Languages/Tools</h2>
+___
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Languages/Tools&fontSize=25&fontColor=703EE5" width="100%" alt="Languages/Tools Header" />
+  
 
 <h3 align="center">Experienced</h3>
-<div align="center">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src=".logo/c.svg" width="50" height="50" > </a>
 <a href="https://isocpp.org/" target="_blank"> <img src=".logo/cpp.svg" width="50" height="50"> </a>
 <a href="https://unity.com/" target="_blank"> <img src=".logo/unity.svg" width="50" height="50"> </a>
@@ -12,13 +16,8 @@
 <a href="https://www.gnu.org/software/make/" target="_blank"> <img src=".logo/gnu.svg" width="50" height="50"> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src=".logo/bash.svg" width="50" height="50"> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src=".logo/docker.svg" width="50" height="50"> </a>
-</div>
-
-</br>
-
 <h3 align="center">Basic understanding</h3>
 
-<div align="center">
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src=".logo/html5.svg" width="50" height="50"> </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"> <img src=".logo/css.svg" width="50" height="50"> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src=".logo/javascript.svg" width="50" height="50"> </a>
@@ -26,10 +25,9 @@
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src=".logo/swift.svg" width="50" height="50"> </a>
 </div>
 
-</br>
-
 ___
-<h2 align="center">Github Stats</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Basic%20Understanding&fontSize=25&fontColor=703EE5" width="100%" alt="Basic Understanding header" />
 
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=dcavalei&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -38,6 +36,7 @@ ___
 </td></tr></table>
 
 <br/>
+</div>
 
 >It's not a silly question if you can't answer it.
 
