@@ -21,27 +21,23 @@
 <a href="https://www.javascript.com/" target="_blank"> <img src=".logo/javascript.svg" width="50" height="50"> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src=".logo/csharp.svg" width="50" height="50"> </a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src=".logo/swift.svg" width="50" height="50"> </a>
-
 <br/><br/>
 </div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6CCAF6&height=50&text=GitHub%20Stats&fontSize=25&fontColor=FFFFFF&fontAlign=90&fontAlignY=55" width="100%" alt="GitHub Stats header" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcavalei&hide_border=true&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dcavalei&show_icons=true&count_private=true&hide_border=true" width="49%" />
+</div>
 
 
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=dcavalei&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcavalei&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>
 
-<br/>
-  
 <div align="center">
-<div>
-<img src="https://badge42.herokuapp.com/api/stats/dcavalei" width="70%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=6CCAF6&height=50&text=42%20Stats&fontSize=25&fontColor=FFFFFF&reversal=true&fontAlign=7&fontAlignY=55" width="100%" alt="42 Status Header" />
+
+<img src="https://badge42.herokuapp.com/api/stats/dcavalei?privacyName=true&privacyEmail=true&cursus=C%20Piscine" width="49%" />
+<img src="https://badge42.herokuapp.com/api/stats/dcavalei?privacyName=true" width="49%" />
 </div>
 
 <!--
