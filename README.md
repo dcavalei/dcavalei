@@ -35,9 +35,10 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6CCAF6&height=50&text=42%20Stats&fontSize=25&fontColor=FFFFFF&reversal=true&fontAlign=7&fontAlignY=55" width="100%" alt="42 Status Header" />
+  
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2yin8tp002109ibxwwusvs5/stats?cursusId=21&coalitionId=120" alt="dcavalei's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2yin8tp002109ibxwwusvs5/stats?cursusId=9&coalitionId=112" alt="dcavalei's 42 stats" /></a>
 
-<img src="https://badge42.herokuapp.com/api/stats/dcavalei?privacyName=true&privacyEmail=true&cursus=C%20Piscine" width="49%" />
-<img src="https://badge42.herokuapp.com/api/stats/dcavalei?privacyName=true" width="49%" />
 </div>
 
 <!--
