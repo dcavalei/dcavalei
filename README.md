@@ -31,6 +31,14 @@
 <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src=".logo/confluence.svg" width="50" height="50"> </a>
 <a href="https://www.wireshark.org/" target="_blank"> <img src=".logo/wireshark.svg" width="50" height="50"> </a>
 
+<h3 align="center">Actively Improving</h3>
+<a href="https://isocpp.org/" target="_blank"> <img src=".logo/cpp.svg" width="50" height="50"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src=".logo/git.svg" width="50" height="50"> </a>
+<a href="https://developer.android.com/" target="_blank"> <img src=".logo/android.svg" width="50" height="50"> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src=".logo/kotlin.svg" width="50" height="50"> </a>
+
+<h3 align="center">Passion</h3>
+<a href="https://isocpp.org/" target="_blank"> <img src=".logo/cpp.svg" width="50" height="50"> </a>
 <br/><br/>
 </div>
 
